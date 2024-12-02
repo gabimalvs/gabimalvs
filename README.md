@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, sou Gabriela Malveira! 👋
 
-<!--
-**gabimalvs/gabimalvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora apaixonada por software e soluções inovadoras no mercado financeiro. Adoro aprender novas tecnologias e contribuir com projetos de jogos.
 
-Here are some ideas to get you started:
+🔧 Tecnologias favoritas: C#, GML, Kotlin, Java, C, Python.
+🎯 Objetivo: Melhorar minhas habilidades em Desenvolvimento Mobile em Android e explorar mais sobre Game Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabimalvs&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+
+### 📱 Me encontre em:
+
+- [LinkedIn](https://www.linkedin.com/in/gabriela-malveira-a9623b296/)
