@@ -10,9 +10,6 @@ Desenvolvedora apaixonada por jogos mobile e soluções inovadoras. Adoro aprend
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabimalvs&show_icons=true&theme=tokyonight)
 
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
-
 ### 📱 Me encontre em:
 - [LinkedIn](https://linkedin.com/in/gabriela-malveira-a9623b296/)
 
