@@ -7,10 +7,12 @@ Desenvolvedora apaixonada por jogos mobile e soluções inovadoras. Adoro aprend
 🎯 Objetivo: Melhorar minhas habilidades em Desenvolvimento Mobile em Android e explorar mais sobre Game Design.
 
 
-[![Gabimalvs's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabimalvs)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabimalvs&show_icons=true&theme=tokyonight)
 
-### 📱 Me encontre em:
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
+
+### 📱 Me encontre em:
 - [LinkedIn](https://linkedin.com/in/gabriela-malveira-a9623b296/)
 
